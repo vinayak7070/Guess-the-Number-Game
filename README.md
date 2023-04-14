@@ -1,4 +1,4 @@
-Guess the Number
+<span style="font-size:48px">Guess The Number</span>
 This is a simple program written in C that allows users to play a guessing game. The user will be prompted to enter a number, and the program will generate a random number between 1 and 100. The user will then have to guess the number, and the program will tell them whether their guess is too high, too low, or correct.
 
 How to Use
